@@ -12,5 +12,5 @@ guessing and checking, but I want a solution that will solve a 24
 challenge puzzle accurately and algorithmiclly. This repo is my attempt 
 to do so.
 
-This problem may have artificial intelligence applications, as well, but 
-I will start here.
+Artificial intelligence could probably sovle this problem with training, 
+but where is the mathematical fun in that?
